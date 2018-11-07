@@ -6,3 +6,5 @@ Situation: You are in band practice. You see an odd note that you haven't played
 Answer: You get out your brass notes app and quickly check without the conductor even noticing! 
 Someone else asking what that note is? Tell them! At home practicing and unsure what it is? 
 Don't look it up on the internet or a book, just take out your Brass Notes app!  Thanks for all the support!
+
+For any requirements of our application, please send an email to our email: kevinwong190@gmail.com Thank you for your support!
